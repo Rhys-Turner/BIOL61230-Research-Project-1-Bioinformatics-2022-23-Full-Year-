@@ -1,7 +1,7 @@
 # BIOL61230-Research-Project-1-Bioinformatics-2022-23
 
 # This online repository contains the supplemental figures for Rhys Turner's paper entitled: 
-"Geographical epidemiology of health and overall deprivation in England, its changes and persistence from 2004 to 2019."
+#"Geographical epidemiology of health and overall deprivation in England, its changes and persistence from 2004 to 2019."
 
 # A brief description of each Supplemental appendices file is stated below: 
 
